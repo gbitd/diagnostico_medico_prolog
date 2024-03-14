@@ -1,0 +1,6 @@
+:- dynamic patient/5.
+
+patient(45, 'Jose', 23, [sede, boca_seca, nausea, vomito, diarreia], [(colera, 5), (aids, 1), (chicungunya, 0), (gripe, 0), (pneumonia, 0), (raiva, 0), (hanseniase, 0), (hepatite, 0), (candidiase, 0), (parkinson, 0), (alzheimer, 0)]).
+patient(777, 'Maria de Jesus', 77, [], []).
+patient(888, 'Jose Aparecido de Souza', 48, [], []).
+
